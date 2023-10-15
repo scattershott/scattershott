@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm scattershott, a passionate Developer who loves
 
 While there may not be much here yet, I'm just a message away. Let's connect and discuss exciting ideas or collaborate on something awesome. Don't hesitate to reach out!
 
-- 📧 Feel free to reach out via email at p.rajeshkumar2603@gmail.com.
+- 📧 Feel free to reach out via email at [Mail](p.rajeshkumar2603@gmail.com).
 - 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/rajesh-kumar-pradhan04/).
 - 🐦 Follow me on [Twitter](https://twitter.com/scattershott_xx).
 
