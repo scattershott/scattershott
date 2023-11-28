@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm scattershott, a passionate Developer who loves
 While there may not be much here yet, I'm just a message away. Let's connect and discuss exciting ideas or collaborate on something awesome. Don't hesitate to reach out!
 
 - 📧 Feel free to reach out via [email](https://mail.google.com/mail/u/0/#inbox).
-- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/rajesh-kumar-pradhan04/).
+- 💬 Connect with me on [LinkedIn](www.linkedin.com/in/rajesh-kumar-scattershott).
 - 🐦 Follow me on [Twitter](https://twitter.com/scattershott_xx).
 
 ## 🌟 Let's Collaborate!
